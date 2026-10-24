@@ -6,7 +6,7 @@ int main()
  //declares arrays for 5 students and 3 subject
     char name[5][20];
      int mark[5][3];
-    int total[3]={0};
+    int total[5]={0};
      double average[5];
     //input students name
      for(int i=0;i<5;i++){
