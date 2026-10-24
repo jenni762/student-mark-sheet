@@ -1,6 +1,6 @@
 #.Student Mark Sheet
 *About the Project
-This is a beginner-friendly C++ project that manages student marks for three students across three subjects.
+This is a beginner-friendly C++ project that manages student marks for five students across three subjects.
 *Features
 -Input student names and marks
 -Calculate total and average marks
